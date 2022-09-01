@@ -1,1 +1,1 @@
-alx system
+Display current directory contents in a long format
